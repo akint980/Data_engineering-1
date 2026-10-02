@@ -1,0 +1,3 @@
+_pylance_/
+*.csv
+.env

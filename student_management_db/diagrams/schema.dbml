@@ -1,4 +1,3 @@
-# Data_engineering-1
 Table departments {
   department_id integer [pk, increment]
   name varchar(100) [not null, unique]
@@ -67,4 +66,3 @@ Table enrollments{
 
 
 
-Ref: "classes"."class_id" <? "classes"."semester"
